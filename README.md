@@ -2,7 +2,7 @@
 
 I'm a **Computer Engineering student at ITAM** in Mexico City, interested in building computational tools around **machine learning, data, mathematics, and research-oriented software development**.
 
-[CV](./Pablo_Gomez_Ignorosa_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/pablo-ernesto-g%C3%B3mez-ignorosa-134bb03b8/) · [Email](mailto:pgomezignorosa@gmail.com)
+[CV](./Pablo_Ernesto_Gomez_Ignorosa_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/pablo-ernesto-g%C3%B3mez-ignorosa-134bb03b8/) · [Email](mailto:pgomezignorosa@gmail.com)
 
 My current work spans educational technology, graph-based knowledge representation, predictive modeling, and robotics. I particularly enjoy projects where software and mathematical ideas come together to solve concrete problems.
 
@@ -50,6 +50,6 @@ The project compares Logistic Regression, Random Forest, and XGBoost, incorporat
 
 ## Connect
 
-- [CV](./Pablo_Gomez_Ignorosa_CV.pdf)
+- [CV](./Pablo_Ernesto_Gomez_Ignorosa_CV.pdf)
 - [LinkedIn](https://www.linkedin.com/in/pablo-ernesto-g%C3%B3mez-ignorosa-134bb03b8/)
 - [Email](mailto:pgomezignorosa@gmail.com)
